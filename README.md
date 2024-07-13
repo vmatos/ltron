@@ -79,7 +79,7 @@ You may need to install freeglut:
 sudo apt-get install freeglut3-dev
 ```
 
-## New Data
+## ECCV 2024 Data
 The from ECCV '24 data which includes the new RCV dataset and reconstructed RC2/4/8 dataets with better collision checking can be found [here](https://drive.google.com/drive/folders/1nu8e7sWeAfmLb9mzTtiJ9q7ZspxTo5BS?usp=sharing).
 
 ## File Formats
