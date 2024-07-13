@@ -166,6 +166,10 @@ class SteppedBreakAndMakeEnv(SuperMechaContainer):
             components['remap_colors'] = RandomRemapColorComponent(
                 components['initial_assembly'],
                 components['target_assembly'],
+                color_choices=[1, 2, 5, 6, 8, 9, 10, 11, 12, 13, 15,
+                    16, 23, 26, 30, 32, 62, 91, 122, 129, 131, 1, 8,
+                    16, 37, 39, 47, 36, 34,
+                ]
             )
         
         # score
